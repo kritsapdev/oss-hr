@@ -13,3 +13,6 @@ build/
 
 # Secrets/Excel
 *.xlsx
+
+
+node_modules/
